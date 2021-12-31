@@ -13,15 +13,33 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-31T15:45:35.758-05:00
+  lastUpdatedAtString: 2021-12-31T15:47:23.203-05:00
   initializedAtString: 2021-12-31T15:41:20.391-05:00
   entries:
+  - path: Assets/Scenes/Main.unity
+    fullPath: /Users/sirzes/TopDungeon/Assets/Scenes/Main.unity
+    projectPath: Assets/Scenes/Main.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/sirzes/TopDungeon/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/sirzes/TopDungeon/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/sirzes/TopDungeon/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Users/sirzes/TopDungeon/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
@@ -31,6 +49,12 @@ MonoBehaviour:
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/sirzes/TopDungeon/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/sirzes/TopDungeon/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
