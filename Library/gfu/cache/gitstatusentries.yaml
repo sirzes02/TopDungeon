@@ -13,9 +13,525 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-31T15:47:23.203-05:00
+  lastUpdatedAtString: 2021-12-31T16:38:04.698-05:00
   initializedAtString: 2021-12-31T15:41:20.391-05:00
   entries:
+  - path: Assets/Artwork/Atlas.png.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Atlas.png.meta
+    projectPath: Assets/Artwork/Atlas.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Artwork/Levels/Dungeon.prefab
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Dungeon.prefab
+    projectPath: Assets/Artwork/Levels/Dungeon.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Dungeon.prefab.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Dungeon.prefab.meta
+    projectPath: Assets/Artwork/Levels/Dungeon.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles.meta
+    projectPath: Assets/Artwork/Levels/Tiles.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Crate_0.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Crate_0.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Crate_0.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Crate_0.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Crate_0.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Crate_0.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Crate_1.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Crate_1.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Crate_1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Crate_1.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Crate_1.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Crate_1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Crate_2.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Crate_2.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Crate_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Crate_2.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Crate_2.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Crate_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Crate_3.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Crate_3.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Crate_3.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Crate_3.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Crate_3.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Crate_3.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_0.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_0.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_0.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_0.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_0.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_0.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_1.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_1.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_1.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_1.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_10.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_10.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_10.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_10.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_10.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_10.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_11.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_11.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_11.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_11.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_11.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_11.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_12.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_12.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_12.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_12.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_12.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_12.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_13.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_13.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_13.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_13.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_13.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_13.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_2.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_2.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_2.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_2.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_3.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_3.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_3.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_3.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_3.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_3.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_4.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_4.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_4.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_4.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_4.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_4.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_5.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_5.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_5.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_5.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_5.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_5.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_6.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_6.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_6.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_6.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_6.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_6.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_7.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_7.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_7.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_7.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_7.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_7.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_8.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_8.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_8.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_8.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_8.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_8.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_9.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_9.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_9.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Floor_9.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Floor_9.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Floor_9.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/HealingFountain_0.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/HealingFountain_0.asset
+    projectPath: Assets/Artwork/Levels/Tiles/HealingFountain_0.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/HealingFountain_0.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/HealingFountain_0.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/HealingFountain_0.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/HealingFountain_1.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/HealingFountain_1.asset
+    projectPath: Assets/Artwork/Levels/Tiles/HealingFountain_1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/HealingFountain_1.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/HealingFountain_1.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/HealingFountain_1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/HealingFountain_2.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/HealingFountain_2.asset
+    projectPath: Assets/Artwork/Levels/Tiles/HealingFountain_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/HealingFountain_2.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/HealingFountain_2.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/HealingFountain_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/pilar_0.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/pilar_0.asset
+    projectPath: Assets/Artwork/Levels/Tiles/pilar_0.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/pilar_0.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/pilar_0.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/pilar_0.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_1.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_1.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_1.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_1.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_2.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_2.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_2.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_2.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_4.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_4.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_4.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_4.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_4.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_4.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_5.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_5.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_5.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_5.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_5.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_5.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_6.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_6.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_6.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Pilar_6.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Pilar_6.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Pilar_6.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Stairs_0.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Stairs_0.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Stairs_0.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Stairs_0.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Stairs_0.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Stairs_0.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Stairs_1.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Stairs_1.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Stairs_1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Stairs_1.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Stairs_1.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Stairs_1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Stairs_2.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Stairs_2.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Stairs_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Stairs_2.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Stairs_2.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Stairs_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Stairs_3.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Stairs_3.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Stairs_3.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Stairs_3.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Stairs_3.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Stairs_3.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_0.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_0.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_0.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_0.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_0.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_0.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_1.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_1.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_1.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_1.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_2.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_2.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_2.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_2.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_2.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_2.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_3.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_3.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_3.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_3.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_3.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_3.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_4.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_4.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_4.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_4.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_4.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_4.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_5.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_5.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_5.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_5.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_5.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_5.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_6.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_6.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_6.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_6.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_6.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_6.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_7.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_7.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_7.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_7.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_7.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_7.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_8.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_8.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_8.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_8.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_8.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_8.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_9.asset
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_9.asset
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_9.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Artwork/Levels/Tiles/Wall_9.asset.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Levels/Tiles/Wall_9.asset.meta
+    projectPath: Assets/Artwork/Levels/Tiles/Wall_9.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets/Scenes/Main.unity
     fullPath: /Users/sirzes/TopDungeon/Assets/Scenes/Main.unity
     projectPath: Assets/Scenes/Main.unity
@@ -28,6 +544,426 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/Artifacts/04/0422ce4b821c9bb05d623121abbeabd9
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/04/0422ce4b821c9bb05d623121abbeabd9
+    projectPath: Library/Artifacts/04/0422ce4b821c9bb05d623121abbeabd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/07/074ad1d4efcaac2bb0466c9534a159db
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/07/074ad1d4efcaac2bb0466c9534a159db
+    projectPath: Library/Artifacts/07/074ad1d4efcaac2bb0466c9534a159db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/0a/0a445c9a876173ff83a3dd4b22874bd4
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/0a/0a445c9a876173ff83a3dd4b22874bd4
+    projectPath: Library/Artifacts/0a/0a445c9a876173ff83a3dd4b22874bd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/10/10ab09d5b434646d0934f5b15e737165
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/10/10ab09d5b434646d0934f5b15e737165
+    projectPath: Library/Artifacts/10/10ab09d5b434646d0934f5b15e737165
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/14/1482777326d9700e4811ce8443670db9
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/14/1482777326d9700e4811ce8443670db9
+    projectPath: Library/Artifacts/14/1482777326d9700e4811ce8443670db9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/18/18f07bf4590dd286cc10d3921f54c08b
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/18/18f07bf4590dd286cc10d3921f54c08b
+    projectPath: Library/Artifacts/18/18f07bf4590dd286cc10d3921f54c08b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/19/1924c92657a2a2cefa598229ac6beb47
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/19/1924c92657a2a2cefa598229ac6beb47
+    projectPath: Library/Artifacts/19/1924c92657a2a2cefa598229ac6beb47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/20/2025297025472bc430e2ff167b5567c0
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/20/2025297025472bc430e2ff167b5567c0
+    projectPath: Library/Artifacts/20/2025297025472bc430e2ff167b5567c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/22/221582f6fc94ff8e984aa89eec40b6fe
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/22/221582f6fc94ff8e984aa89eec40b6fe
+    projectPath: Library/Artifacts/22/221582f6fc94ff8e984aa89eec40b6fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/27/27282450e91ed6e9f960fd72af8d99d8
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/27/27282450e91ed6e9f960fd72af8d99d8
+    projectPath: Library/Artifacts/27/27282450e91ed6e9f960fd72af8d99d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/27/27551ffbabb2b6e495f640ebd2c130e9
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/27/27551ffbabb2b6e495f640ebd2c130e9
+    projectPath: Library/Artifacts/27/27551ffbabb2b6e495f640ebd2c130e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/27/27af84a18d386e39651afe270bd0957c
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/27/27af84a18d386e39651afe270bd0957c
+    projectPath: Library/Artifacts/27/27af84a18d386e39651afe270bd0957c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/2e/2e00a12834a88487a4cbccf72a092cb1
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/2e/2e00a12834a88487a4cbccf72a092cb1
+    projectPath: Library/Artifacts/2e/2e00a12834a88487a4cbccf72a092cb1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/2f/2f2de944726c5d339bf9bac724cd73ec
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/2f/2f2de944726c5d339bf9bac724cd73ec
+    projectPath: Library/Artifacts/2f/2f2de944726c5d339bf9bac724cd73ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/2f/2ffbf1da12d6022642e629338454eace
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/2f/2ffbf1da12d6022642e629338454eace
+    projectPath: Library/Artifacts/2f/2ffbf1da12d6022642e629338454eace
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/31/3109ac3a6eb0f53d3b0a6793a3534523
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/31/3109ac3a6eb0f53d3b0a6793a3534523
+    projectPath: Library/Artifacts/31/3109ac3a6eb0f53d3b0a6793a3534523
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/31/314e0ebc699946251069ac14025d6ca8
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/31/314e0ebc699946251069ac14025d6ca8
+    projectPath: Library/Artifacts/31/314e0ebc699946251069ac14025d6ca8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/34/34cfe816be1f93f8071cbdcb056f51e8
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/34/34cfe816be1f93f8071cbdcb056f51e8
+    projectPath: Library/Artifacts/34/34cfe816be1f93f8071cbdcb056f51e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/35/35adbf44d9fb3630a906d476746289ab
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/35/35adbf44d9fb3630a906d476746289ab
+    projectPath: Library/Artifacts/35/35adbf44d9fb3630a906d476746289ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/35/35d5b9163cc00afb6b30cffec8e2bdc7
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/35/35d5b9163cc00afb6b30cffec8e2bdc7
+    projectPath: Library/Artifacts/35/35d5b9163cc00afb6b30cffec8e2bdc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/36/36ad4f574a4731cf5c79a6497f8a24f0
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/36/36ad4f574a4731cf5c79a6497f8a24f0
+    projectPath: Library/Artifacts/36/36ad4f574a4731cf5c79a6497f8a24f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/38/382f986d9561ab1512a2a5610f88f0c9
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/38/382f986d9561ab1512a2a5610f88f0c9
+    projectPath: Library/Artifacts/38/382f986d9561ab1512a2a5610f88f0c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/3d/3d31846a638f509b0e1d4ea84c071b1b
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/3d/3d31846a638f509b0e1d4ea84c071b1b
+    projectPath: Library/Artifacts/3d/3d31846a638f509b0e1d4ea84c071b1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/3e/3efefcc037e90471f7fb520865f725c4
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/3e/3efefcc037e90471f7fb520865f725c4
+    projectPath: Library/Artifacts/3e/3efefcc037e90471f7fb520865f725c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/41/41292aa1be1c287b52de3d811edf81a6
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/41/41292aa1be1c287b52de3d811edf81a6
+    projectPath: Library/Artifacts/41/41292aa1be1c287b52de3d811edf81a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/47/4793c92a340d914dc6fdffa4d2516e88
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/47/4793c92a340d914dc6fdffa4d2516e88
+    projectPath: Library/Artifacts/47/4793c92a340d914dc6fdffa4d2516e88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/48/48258246f85caf314b5e1e12a83c84d1
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/48/48258246f85caf314b5e1e12a83c84d1
+    projectPath: Library/Artifacts/48/48258246f85caf314b5e1e12a83c84d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4e/4e52f36c1eec32eb32f24d67b03b812a
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/4e/4e52f36c1eec32eb32f24d67b03b812a
+    projectPath: Library/Artifacts/4e/4e52f36c1eec32eb32f24d67b03b812a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/53/537acc392598ebf3290d45f94d70cb25
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/53/537acc392598ebf3290d45f94d70cb25
+    projectPath: Library/Artifacts/53/537acc392598ebf3290d45f94d70cb25
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/54/54de23649ed83cd6acc8cab344c33333
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/54/54de23649ed83cd6acc8cab344c33333
+    projectPath: Library/Artifacts/54/54de23649ed83cd6acc8cab344c33333
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/58/58453b7ee5ef2a4650396c9820764d77
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/58/58453b7ee5ef2a4650396c9820764d77
+    projectPath: Library/Artifacts/58/58453b7ee5ef2a4650396c9820764d77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5d/5d1e2f97d65a7520bece8dbd76159bb3
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/5d/5d1e2f97d65a7520bece8dbd76159bb3
+    projectPath: Library/Artifacts/5d/5d1e2f97d65a7520bece8dbd76159bb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5e/5e6cedda0478f6a1d695f4dd23e57bf1
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/5e/5e6cedda0478f6a1d695f4dd23e57bf1
+    projectPath: Library/Artifacts/5e/5e6cedda0478f6a1d695f4dd23e57bf1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/63/632f1c939408c7dbdd63915e4e774308
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/63/632f1c939408c7dbdd63915e4e774308
+    projectPath: Library/Artifacts/63/632f1c939408c7dbdd63915e4e774308
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/67/677365f41fce0d4fc499ebc02ae65011
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/67/677365f41fce0d4fc499ebc02ae65011
+    projectPath: Library/Artifacts/67/677365f41fce0d4fc499ebc02ae65011
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/68/6802395f0024e9775d714a1843f1a9e9
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/68/6802395f0024e9775d714a1843f1a9e9
+    projectPath: Library/Artifacts/68/6802395f0024e9775d714a1843f1a9e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/68/68330fb3c76e52e18b2699d6b2d2b7fd
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/68/68330fb3c76e52e18b2699d6b2d2b7fd
+    projectPath: Library/Artifacts/68/68330fb3c76e52e18b2699d6b2d2b7fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6a/6a2c7d783ee3e1d7eb4e21a0a4c8a2e9
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/6a/6a2c7d783ee3e1d7eb4e21a0a4c8a2e9
+    projectPath: Library/Artifacts/6a/6a2c7d783ee3e1d7eb4e21a0a4c8a2e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6e/6e228d11e9f9dccff90a38fcde14bb0c
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/6e/6e228d11e9f9dccff90a38fcde14bb0c
+    projectPath: Library/Artifacts/6e/6e228d11e9f9dccff90a38fcde14bb0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/70/70b6cc2af82c92e68a03cfddacbe6df8
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/70/70b6cc2af82c92e68a03cfddacbe6df8
+    projectPath: Library/Artifacts/70/70b6cc2af82c92e68a03cfddacbe6df8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/75/7506e3a48c482c7bd286d2c281828b1c
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/75/7506e3a48c482c7bd286d2c281828b1c
+    projectPath: Library/Artifacts/75/7506e3a48c482c7bd286d2c281828b1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/7a/7ab915e40fcb8d7344a86c470b955be9
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/7a/7ab915e40fcb8d7344a86c470b955be9
+    projectPath: Library/Artifacts/7a/7ab915e40fcb8d7344a86c470b955be9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/81/81ae6a7f01377da70dc4bdf61b4dfb61
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/81/81ae6a7f01377da70dc4bdf61b4dfb61
+    projectPath: Library/Artifacts/81/81ae6a7f01377da70dc4bdf61b4dfb61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/82/82e8733fed1ad4d60459afa5d89d5681
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/82/82e8733fed1ad4d60459afa5d89d5681
+    projectPath: Library/Artifacts/82/82e8733fed1ad4d60459afa5d89d5681
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/83/834b9f5a0bac5e32fca418c8e543b89b
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/83/834b9f5a0bac5e32fca418c8e543b89b
+    projectPath: Library/Artifacts/83/834b9f5a0bac5e32fca418c8e543b89b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/83/83e161b822f0dbc9d3bee8ed1a8c0f91
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/83/83e161b822f0dbc9d3bee8ed1a8c0f91
+    projectPath: Library/Artifacts/83/83e161b822f0dbc9d3bee8ed1a8c0f91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/84/8449b2a304486d54d5c661b35e13d60a
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/84/8449b2a304486d54d5c661b35e13d60a
+    projectPath: Library/Artifacts/84/8449b2a304486d54d5c661b35e13d60a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/85/85a6553e7248ac5d62eb4288fc8a1095
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/85/85a6553e7248ac5d62eb4288fc8a1095
+    projectPath: Library/Artifacts/85/85a6553e7248ac5d62eb4288fc8a1095
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/85/85f075364691f35f28513ee6ba288e31
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/85/85f075364691f35f28513ee6ba288e31
+    projectPath: Library/Artifacts/85/85f075364691f35f28513ee6ba288e31
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/86/86024b321523765cab01bb2b2977c063
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/86/86024b321523765cab01bb2b2977c063
+    projectPath: Library/Artifacts/86/86024b321523765cab01bb2b2977c063
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8e/8e505710ada586c4943f6ea153b2a18a
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/8e/8e505710ada586c4943f6ea153b2a18a
+    projectPath: Library/Artifacts/8e/8e505710ada586c4943f6ea153b2a18a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/92/92af05fbc4c8674b994d0c18f837b01c
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/92/92af05fbc4c8674b994d0c18f837b01c
+    projectPath: Library/Artifacts/92/92af05fbc4c8674b994d0c18f837b01c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/98/98e19dbe9fa0288ace419246ff22dd89
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/98/98e19dbe9fa0288ace419246ff22dd89
+    projectPath: Library/Artifacts/98/98e19dbe9fa0288ace419246ff22dd89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9a/9af335f243c797e0e298d6bdb1e9d677
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/9a/9af335f243c797e0e298d6bdb1e9d677
+    projectPath: Library/Artifacts/9a/9af335f243c797e0e298d6bdb1e9d677
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a0/a0ec37c3e7e9a0ed44303134ad67ceb9
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/a0/a0ec37c3e7e9a0ed44303134ad67ceb9
+    projectPath: Library/Artifacts/a0/a0ec37c3e7e9a0ed44303134ad67ceb9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a2/a2d370a14164fbf9772b11ec78b79809
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/a2/a2d370a14164fbf9772b11ec78b79809
+    projectPath: Library/Artifacts/a2/a2d370a14164fbf9772b11ec78b79809
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/aa/aa45f3187f293243d74eda502d53d8e1
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/aa/aa45f3187f293243d74eda502d53d8e1
+    projectPath: Library/Artifacts/aa/aa45f3187f293243d74eda502d53d8e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/af/afee56187d050d57cd24e3522ed85b53
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/af/afee56187d050d57cd24e3522ed85b53
+    projectPath: Library/Artifacts/af/afee56187d050d57cd24e3522ed85b53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c1/c11091dec908c0e06749f8f581f92880
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/c1/c11091dec908c0e06749f8f581f92880
+    projectPath: Library/Artifacts/c1/c11091dec908c0e06749f8f581f92880
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c6/c6fd45c423026d0e967161fe7d5960da
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/c6/c6fd45c423026d0e967161fe7d5960da
+    projectPath: Library/Artifacts/c6/c6fd45c423026d0e967161fe7d5960da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ca/ca4e1596a22379303558eac412dc91b8
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/ca/ca4e1596a22379303558eac412dc91b8
+    projectPath: Library/Artifacts/ca/ca4e1596a22379303558eac412dc91b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cf/cf4e2e51264e37cd0da9e047b26b7b94
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/cf/cf4e2e51264e37cd0da9e047b26b7b94
+    projectPath: Library/Artifacts/cf/cf4e2e51264e37cd0da9e047b26b7b94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d2/d23f4c7cb5b57d98f5d11025a3cc2768
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/d2/d23f4c7cb5b57d98f5d11025a3cc2768
+    projectPath: Library/Artifacts/d2/d23f4c7cb5b57d98f5d11025a3cc2768
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/da/dab095d9f165274775fd78f56a20f249
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/da/dab095d9f165274775fd78f56a20f249
+    projectPath: Library/Artifacts/da/dab095d9f165274775fd78f56a20f249
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/dc/dc43f94558837410a0cecf06fd7c9e4c
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/dc/dc43f94558837410a0cecf06fd7c9e4c
+    projectPath: Library/Artifacts/dc/dc43f94558837410a0cecf06fd7c9e4c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/dc/dc97fa0469f76235d4ecc80d4f9e62e3
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/dc/dc97fa0469f76235d4ecc80d4f9e62e3
+    projectPath: Library/Artifacts/dc/dc97fa0469f76235d4ecc80d4f9e62e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f7/f7033e1e7863f23a0c76f6bd96cbdb03
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/f7/f7033e1e7863f23a0c76f6bd96cbdb03
+    projectPath: Library/Artifacts/f7/f7033e1e7863f23a0c76f6bd96cbdb03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f7/f70f13cd82334ff64dd110e8f2eac057
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/f7/f70f13cd82334ff64dd110e8f2eac057
+    projectPath: Library/Artifacts/f7/f70f13cd82334ff64dd110e8f2eac057
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fc/fc151560d2304c4e452115105134a92b
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/fc/fc151560d2304c4e452115105134a92b
+    projectPath: Library/Artifacts/fc/fc151560d2304c4e452115105134a92b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fe/fee5851599f7e72fbc753db8b05e492c
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/fe/fee5851599f7e72fbc753db8b05e492c
+    projectPath: Library/Artifacts/fe/fee5851599f7e72fbc753db8b05e492c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library/gfu/cache/branches.yaml
     fullPath: /Users/sirzes/TopDungeon/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
@@ -52,9 +988,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
+    fullPath: /Users/sirzes/TopDungeon/Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
+    projectPath: Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/sirzes/TopDungeon/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/sirzes/TopDungeon/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/SourceAssetDB
     fullPath: /Users/sirzes/TopDungeon/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/MainStageHierarchy/dc/dce6f2ab8f1f102233037b4df5b06049.json
+    fullPath: /Users/sirzes/TopDungeon/Library/StateCache/MainStageHierarchy/dc/dce6f2ab8f1f102233037b4df5b06049.json
+    projectPath: Library/StateCache/MainStageHierarchy/dc/dce6f2ab8f1f102233037b4df5b06049.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/e8/e884b91f4d8f33fe87b240579b9ddcb7.json
+    fullPath: /Users/sirzes/TopDungeon/Library/StateCache/SceneView/e8/e884b91f4d8f33fe87b240579b9ddcb7.json
+    projectPath: Library/StateCache/SceneView/e8/e884b91f4d8f33fe87b240579b9ddcb7.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/AssetImportWorker0.log
+    fullPath: /Users/sirzes/TopDungeon/Logs/AssetImportWorker0.log
+    projectPath: Logs/AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/sirzes/TopDungeon/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/sirzes/TopDungeon/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
