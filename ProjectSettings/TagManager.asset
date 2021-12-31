@@ -20,7 +20,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Ceil
   - 
   - 
   - 
@@ -46,4 +46,7 @@ TagManager:
     locked: 0
   - name: Actor
     uniqueID: 52597613
+    locked: 0
+  - name: Interactable
+    uniqueID: 274364395
     locked: 0
