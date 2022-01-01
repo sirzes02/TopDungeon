@@ -60,6 +60,8 @@
     <Compile Include="Assets/Scripts/Collectable.cs" />
     <Compile Include="Assets/Scripts/Portal.cs" />
     <Compile Include="Assets/Scripts/GameManager.cs" />
+    <Compile Include="Assets/Scripts/FloatingText.cs" />
+    <Compile Include="Assets/Scripts/FloatingTextManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -27,8 +27,15 @@ public class GameManager : MonoBehaviour
 
     public Player player;
 
+    public FloatingTextManager FloatingTextManager;
+
     public int pesos;
     public int experience;
+
+    public void ShowText(string msg, int fontSize, Color color, Vector3 position, Vector3 motion, float duration)
+    {
+        FloatingTextManager.Show(msg, fontSize, color, position, motion, duration);
+    }
 
     public void SaveState()
     {
@@ -53,3 +60,4 @@ public class GameManager : MonoBehaviour
         experience = int.Parse(data[2]);
     }
 }
+
