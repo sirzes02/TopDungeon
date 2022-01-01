@@ -356,7 +356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitPoint: 10
   maxHitPoint: 10
-  pushRecoverySpeed: 0.1
+  pushRecoverySpeed: 0.2
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -489,7 +489,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hitPoint: 3
   maxHitPoint: 3
-  pushRecoverySpeed: 0.2
+  pushRecoverySpeed: 0.3
   xpValue: 1
   triggerLenght: 0.3
   chadeLenght: 1
@@ -17804,6 +17804,7 @@ GameObject:
   - component: {fileID: 1780277783}
   - component: {fileID: 1780277782}
   - component: {fileID: 1780277781}
+  - component: {fileID: 1780277784}
   m_Layer: 0
   m_Name: Weapon_0
   m_TagString: Untagged
@@ -17931,6 +17932,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &1780277784
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1780277779}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c424bbdc23c244513937af52be47df6f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1972771943
 GameObject:
   m_ObjectHideFlags: 0
@@ -18016,7 +18036,7 @@ MonoBehaviour:
     minNormalAngle: 0
     maxNormalAngle: 0
   damage: 1
-  pushForce: 2
+  pushForce: 5
 --- !u!1 &2051281155
 GameObject:
   m_ObjectHideFlags: 0
