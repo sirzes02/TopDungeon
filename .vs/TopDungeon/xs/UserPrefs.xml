@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{81764924-7F04-A078-2D62-EFEEB97603C4}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Chest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Mover.cs">
     <Files>
-      <File FileName="Assets/Scripts/FloatingTextManager.cs" Line="15" Column="38" />
-      <File FileName="Assets/Scripts/GameManager.cs" Line="33" Column="27" />
-      <File FileName="Assets/Scripts/Chest.cs" Line="16" Column="59" />
+      <File FileName="Assets/Scripts/EnemyHitbox.cs" Line="16" Column="38" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="27" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +10,7 @@
           <Node name="TopDungeon" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Chest.cs" selected="True" />
+                <Node name="Mover.cs" selected="True" />
               </Node>
             </Node>
           </Node>
