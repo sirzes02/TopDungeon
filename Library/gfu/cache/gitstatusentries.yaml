@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-31T18:06:06.761-05:00
+  lastUpdatedAtString: 2021-12-31T20:15:36.834-05:00
   initializedAtString: 2021-12-31T15:41:20.391-05:00
   entries:
   - path: .vs/TopDungeon/xs/project-cache/Assembly-CSharp-Debug.json
@@ -34,87 +34,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Artwork/Atlas.png.meta
-    fullPath: /Users/sirzes/TopDungeon/Assets/Artwork/Atlas.png.meta
-    projectPath: Assets/Artwork/Atlas.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets/Prefabs/Chest.prefab
-    fullPath: /Users/sirzes/TopDungeon/Assets/Prefabs/Chest.prefab
-    projectPath: Assets/Prefabs/Chest.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Prefabs/Chest.prefab.meta
-    fullPath: /Users/sirzes/TopDungeon/Assets/Prefabs/Chest.prefab.meta
-    projectPath: Assets/Prefabs/Chest.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/Dungeon.unity
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scenes/Dungeon.unity
-    projectPath: Assets/Scenes/Dungeon.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Scenes/Dungeon.unity.meta
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scenes/Dungeon.unity.meta
-    projectPath: Assets/Scenes/Dungeon.unity.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets/Scenes/Dungeon1.unity
     fullPath: /Users/sirzes/TopDungeon/Assets/Scenes/Dungeon1.unity
     projectPath: Assets/Scenes/Dungeon1.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scenes/Dungeon1.unity.meta
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scenes/Dungeon1.unity.meta
-    projectPath: Assets/Scenes/Dungeon1.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets/Scenes/Main.unity
     fullPath: /Users/sirzes/TopDungeon/Assets/Scenes/Main.unity
     projectPath: Assets/Scenes/Main.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scripts/Chest.cs
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/Chest.cs
-    projectPath: Assets/Scripts/Chest.cs
+  - path: Assets/Scripts/GameManager.cs
+    fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/GameManager.cs
+    projectPath: Assets/Scripts/GameManager.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scripts/Chest.cs.meta
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/Chest.cs.meta
-    projectPath: Assets/Scripts/Chest.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/Collectable.cs
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/Collectable.cs
-    projectPath: Assets/Scripts/Collectable.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/Collectable.cs.meta
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/Collectable.cs.meta
-    projectPath: Assets/Scripts/Collectable.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/Collidable.cs
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/Collidable.cs
-    projectPath: Assets/Scripts/Collidable.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/Collidable.cs.meta
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/Collidable.cs.meta
-    projectPath: Assets/Scripts/Collidable.cs.meta
+  - path: Assets/Scripts/GameManager.cs.meta
+    fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/GameManager.cs.meta
+    projectPath: Assets/Scripts/GameManager.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -122,191 +62,149 @@ MonoBehaviour:
     fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/Portal.cs
     projectPath: Assets/Scripts/Portal.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Scripts/Portal.cs.meta
-    fullPath: /Users/sirzes/TopDungeon/Assets/Scripts/Portal.cs.meta
-    projectPath: Assets/Scripts/Portal.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/ArtifactDB
     fullPath: /Users/sirzes/TopDungeon/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/04/04cbecbef419f85cab5f9661970e6bdd
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/04/04cbecbef419f85cab5f9661970e6bdd
-    projectPath: Library/Artifacts/04/04cbecbef419f85cab5f9661970e6bdd
+  - path: Library/Artifacts/0f/0f7415f33eea990cf2c8ad59c042c183
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/0f/0f7415f33eea990cf2c8ad59c042c183
+    projectPath: Library/Artifacts/0f/0f7415f33eea990cf2c8ad59c042c183
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/13/13d099096653c330c2a4073fb9b57333
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/13/13d099096653c330c2a4073fb9b57333
-    projectPath: Library/Artifacts/13/13d099096653c330c2a4073fb9b57333
+  - path: Library/Artifacts/11/11a0346273013b4ad7d2f3bfd2613b6e
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/11/11a0346273013b4ad7d2f3bfd2613b6e
+    projectPath: Library/Artifacts/11/11a0346273013b4ad7d2f3bfd2613b6e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/1f/1f078704b2baa18dec9fb96d449171b1
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/1f/1f078704b2baa18dec9fb96d449171b1
-    projectPath: Library/Artifacts/1f/1f078704b2baa18dec9fb96d449171b1
+  - path: Library/Artifacts/1d/1d5bcfa50dddb5a887d0336fa255f79b
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/1d/1d5bcfa50dddb5a887d0336fa255f79b
+    projectPath: Library/Artifacts/1d/1d5bcfa50dddb5a887d0336fa255f79b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/22/2211f5f49009388d9f290554a0a76157
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/22/2211f5f49009388d9f290554a0a76157
-    projectPath: Library/Artifacts/22/2211f5f49009388d9f290554a0a76157
+  - path: Library/Artifacts/1d/1d6e434565a73ee908a39f007f54a2de
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/1d/1d6e434565a73ee908a39f007f54a2de
+    projectPath: Library/Artifacts/1d/1d6e434565a73ee908a39f007f54a2de
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/29/292b23770f66d24bccb83ae04030cd77
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/29/292b23770f66d24bccb83ae04030cd77
-    projectPath: Library/Artifacts/29/292b23770f66d24bccb83ae04030cd77
+  - path: Library/Artifacts/26/264c28affa4fd1d7289e496f3b15d5aa
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/26/264c28affa4fd1d7289e496f3b15d5aa
+    projectPath: Library/Artifacts/26/264c28affa4fd1d7289e496f3b15d5aa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/2c/2c68fc0fca22d3b90c5df42e287e0505
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/2c/2c68fc0fca22d3b90c5df42e287e0505
-    projectPath: Library/Artifacts/2c/2c68fc0fca22d3b90c5df42e287e0505
+  - path: Library/Artifacts/2d/2d45b94014c04561971ce6c6459e1360
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/2d/2d45b94014c04561971ce6c6459e1360
+    projectPath: Library/Artifacts/2d/2d45b94014c04561971ce6c6459e1360
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/3b/3b9600172db997dd57c0ebee62161ca8
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/3b/3b9600172db997dd57c0ebee62161ca8
-    projectPath: Library/Artifacts/3b/3b9600172db997dd57c0ebee62161ca8
+  - path: Library/Artifacts/2f/2f2c19fd76e83a682bebede81c3633c2
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/2f/2f2c19fd76e83a682bebede81c3633c2
+    projectPath: Library/Artifacts/2f/2f2c19fd76e83a682bebede81c3633c2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/45/45c2b0841ee2f9b11c2eabee62460660
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/45/45c2b0841ee2f9b11c2eabee62460660
-    projectPath: Library/Artifacts/45/45c2b0841ee2f9b11c2eabee62460660
+  - path: Library/Artifacts/30/309368b7fb96fbde5c6aebca6b5e0248
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/30/309368b7fb96fbde5c6aebca6b5e0248
+    projectPath: Library/Artifacts/30/309368b7fb96fbde5c6aebca6b5e0248
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/4f/4f859f61b5428bd56dc1504a4bd01e90
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/4f/4f859f61b5428bd56dc1504a4bd01e90
-    projectPath: Library/Artifacts/4f/4f859f61b5428bd56dc1504a4bd01e90
+  - path: Library/Artifacts/39/396de92d9f06b89ceeb8f10ec687b405
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/39/396de92d9f06b89ceeb8f10ec687b405
+    projectPath: Library/Artifacts/39/396de92d9f06b89ceeb8f10ec687b405
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/57/57e82e62f13f99389632b82523d4cfb7
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/57/57e82e62f13f99389632b82523d4cfb7
-    projectPath: Library/Artifacts/57/57e82e62f13f99389632b82523d4cfb7
+  - path: Library/Artifacts/39/39bfb6a924946e7d0f7a292db6cf2909
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/39/39bfb6a924946e7d0f7a292db6cf2909
+    projectPath: Library/Artifacts/39/39bfb6a924946e7d0f7a292db6cf2909
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/58/58f0142cdf12a9bfb87e135126b76b0b
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/58/58f0142cdf12a9bfb87e135126b76b0b
-    projectPath: Library/Artifacts/58/58f0142cdf12a9bfb87e135126b76b0b
+  - path: Library/Artifacts/3b/3b0441df8f5b61aa5b863c8509450b52
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/3b/3b0441df8f5b61aa5b863c8509450b52
+    projectPath: Library/Artifacts/3b/3b0441df8f5b61aa5b863c8509450b52
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/65/65dc74e478e32251e07cff67dfb1117f
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/65/65dc74e478e32251e07cff67dfb1117f
-    projectPath: Library/Artifacts/65/65dc74e478e32251e07cff67dfb1117f
+  - path: Library/Artifacts/4d/4d1913277df8c0a929737fb366f48022
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/4d/4d1913277df8c0a929737fb366f48022
+    projectPath: Library/Artifacts/4d/4d1913277df8c0a929737fb366f48022
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/71/71f29de77a404ffaf4d8305b9b0d7d74
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/71/71f29de77a404ffaf4d8305b9b0d7d74
-    projectPath: Library/Artifacts/71/71f29de77a404ffaf4d8305b9b0d7d74
+  - path: Library/Artifacts/76/7677534e6786aea13b916dbdc18e912d
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/76/7677534e6786aea13b916dbdc18e912d
+    projectPath: Library/Artifacts/76/7677534e6786aea13b916dbdc18e912d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/78/78fc5d315727f78d5f02078e7d3d0396
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/78/78fc5d315727f78d5f02078e7d3d0396
-    projectPath: Library/Artifacts/78/78fc5d315727f78d5f02078e7d3d0396
+  - path: Library/Artifacts/7f/7fe8ce392d420ba58e004e6990e6ba80
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/7f/7fe8ce392d420ba58e004e6990e6ba80
+    projectPath: Library/Artifacts/7f/7fe8ce392d420ba58e004e6990e6ba80
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/87/872b1b26cf7fafdac43875cc9734c3fe
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/87/872b1b26cf7fafdac43875cc9734c3fe
-    projectPath: Library/Artifacts/87/872b1b26cf7fafdac43875cc9734c3fe
+  - path: Library/Artifacts/93/934ebc9298f4e707e865b7cc11d42563
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/93/934ebc9298f4e707e865b7cc11d42563
+    projectPath: Library/Artifacts/93/934ebc9298f4e707e865b7cc11d42563
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/99/99ec6e2c001d24b3bf9b8768917f2031
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/99/99ec6e2c001d24b3bf9b8768917f2031
-    projectPath: Library/Artifacts/99/99ec6e2c001d24b3bf9b8768917f2031
+  - path: Library/Artifacts/9a/9a25b00bf9fee23a45b4c9ee78b2291b
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/9a/9a25b00bf9fee23a45b4c9ee78b2291b
+    projectPath: Library/Artifacts/9a/9a25b00bf9fee23a45b4c9ee78b2291b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/9a/9ac2ad0508b12f18ceeb902dcdbec236
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/9a/9ac2ad0508b12f18ceeb902dcdbec236
-    projectPath: Library/Artifacts/9a/9ac2ad0508b12f18ceeb902dcdbec236
+  - path: Library/Artifacts/ab/ab21d93d8ca38a207c00cef5f5be2dbd
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/ab/ab21d93d8ca38a207c00cef5f5be2dbd
+    projectPath: Library/Artifacts/ab/ab21d93d8ca38a207c00cef5f5be2dbd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/9a/9ae98f51f05f14f2ba75a49fd47a7404
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/9a/9ae98f51f05f14f2ba75a49fd47a7404
-    projectPath: Library/Artifacts/9a/9ae98f51f05f14f2ba75a49fd47a7404
+  - path: Library/Artifacts/b6/b6d7d2d3821bbf5509ffc1805e3d7252
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/b6/b6d7d2d3821bbf5509ffc1805e3d7252
+    projectPath: Library/Artifacts/b6/b6d7d2d3821bbf5509ffc1805e3d7252
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/9b/9bd7282e8a59e7688acd7b8d0d4c82e5
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/9b/9bd7282e8a59e7688acd7b8d0d4c82e5
-    projectPath: Library/Artifacts/9b/9bd7282e8a59e7688acd7b8d0d4c82e5
+  - path: Library/Artifacts/bd/bdafd9a39d0b9b66cf803f04eb1f69a9
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/bd/bdafd9a39d0b9b66cf803f04eb1f69a9
+    projectPath: Library/Artifacts/bd/bdafd9a39d0b9b66cf803f04eb1f69a9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/a0/a08665ee211abebe2ab193c477c545ff
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/a0/a08665ee211abebe2ab193c477c545ff
-    projectPath: Library/Artifacts/a0/a08665ee211abebe2ab193c477c545ff
+  - path: Library/Artifacts/c4/c4eaebe33fb65c393da4cf8bfb8b47ad
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/c4/c4eaebe33fb65c393da4cf8bfb8b47ad
+    projectPath: Library/Artifacts/c4/c4eaebe33fb65c393da4cf8bfb8b47ad
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/aa/aa875e6049478ceeef9ab7454c109e84
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/aa/aa875e6049478ceeef9ab7454c109e84
-    projectPath: Library/Artifacts/aa/aa875e6049478ceeef9ab7454c109e84
+  - path: Library/Artifacts/cc/cc70eaaf13140e07e50e9b094f48acda
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/cc/cc70eaaf13140e07e50e9b094f48acda
+    projectPath: Library/Artifacts/cc/cc70eaaf13140e07e50e9b094f48acda
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ac/ac608f69135f92018c126ccf8badbada
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/ac/ac608f69135f92018c126ccf8badbada
-    projectPath: Library/Artifacts/ac/ac608f69135f92018c126ccf8badbada
+  - path: Library/Artifacts/d2/d27b580258524fe85a72d961d4fbe7ea
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/d2/d27b580258524fe85a72d961d4fbe7ea
+    projectPath: Library/Artifacts/d2/d27b580258524fe85a72d961d4fbe7ea
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b4/b49bd6ced737517ffb7029174b126992
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/b4/b49bd6ced737517ffb7029174b126992
-    projectPath: Library/Artifacts/b4/b49bd6ced737517ffb7029174b126992
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b7/b7344557d50d51f4639e6bd6a3e86d8e
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/b7/b7344557d50d51f4639e6bd6a3e86d8e
-    projectPath: Library/Artifacts/b7/b7344557d50d51f4639e6bd6a3e86d8e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c6/c6fe1cc99dcfaae16650cc9cd679b6be
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/c6/c6fe1cc99dcfaae16650cc9cd679b6be
-    projectPath: Library/Artifacts/c6/c6fe1cc99dcfaae16650cc9cd679b6be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c8/c8d7c07c2fc8f89e83ab39d36dd5f35e
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/c8/c8d7c07c2fc8f89e83ab39d36dd5f35e
-    projectPath: Library/Artifacts/c8/c8d7c07c2fc8f89e83ab39d36dd5f35e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ca/ca9338605c0842692e80fd0ccb340e29
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/ca/ca9338605c0842692e80fd0ccb340e29
-    projectPath: Library/Artifacts/ca/ca9338605c0842692e80fd0ccb340e29
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fb/fb8af8488633999533fc71622fe02046
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/fb/fb8af8488633999533fc71622fe02046
-    projectPath: Library/Artifacts/fb/fb8af8488633999533fc71622fe02046
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/fd/fd9f8cac0cd365749e2c2d8ee7d9a820
-    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/fd/fd9f8cac0cd365749e2c2d8ee7d9a820
-    projectPath: Library/Artifacts/fd/fd9f8cac0cd365749e2c2d8ee7d9a820
+  - path: Library/Artifacts/f7/f72be883fbad653a8ecda359bf6e9bf3
+    fullPath: /Users/sirzes/TopDungeon/Library/Artifacts/f7/f72be883fbad653a8ecda359bf6e9bf3
+    projectPath: Library/Artifacts/f7/f72be883fbad653a8ecda359bf6e9bf3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -331,12 +229,6 @@ MonoBehaviour:
   - path: Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/sirzes/TopDungeon/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
-    fullPath: /Users/sirzes/TopDungeon/Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
-    projectPath: Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -382,6 +274,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Logs/ApiUpdaterCheck.txt
+    fullPath: /Users/sirzes/TopDungeon/Logs/ApiUpdaterCheck.txt
+    projectPath: Logs/ApiUpdaterCheck.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Logs/AssetImportWorker0.log
     fullPath: /Users/sirzes/TopDungeon/Logs/AssetImportWorker0.log
     projectPath: Logs/AssetImportWorker0.log
@@ -394,15 +292,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings/EditorBuildSettings.asset
-    fullPath: /Users/sirzes/TopDungeon/ProjectSettings/EditorBuildSettings.asset
-    projectPath: ProjectSettings/EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings/TagManager.asset
-    fullPath: /Users/sirzes/TopDungeon/ProjectSettings/TagManager.asset
-    projectPath: ProjectSettings/TagManager.asset
+  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    fullPath: /Users/sirzes/TopDungeon/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -412,6 +304,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Temp/ApiUpdater_CheckMovedFrom70382084f2a36414cba0088ceb2d77b1
+    fullPath: /Users/sirzes/TopDungeon/Temp/ApiUpdater_CheckMovedFrom70382084f2a36414cba0088ceb2d77b1
+    projectPath: Temp/ApiUpdater_CheckMovedFrom70382084f2a36414cba0088ceb2d77b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ApiUpdater_CheckMovedFromf69507687825a4ff0a97dbff5e85f31a
+    fullPath: /Users/sirzes/TopDungeon/Temp/ApiUpdater_CheckMovedFromf69507687825a4ff0a97dbff5e85f31a
+    projectPath: Temp/ApiUpdater_CheckMovedFromf69507687825a4ff0a97dbff5e85f31a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp/Assembly-CSharp.dll.hash
     fullPath: /Users/sirzes/TopDungeon/Temp/Assembly-CSharp.dll.hash
     projectPath: Temp/Assembly-CSharp.dll.hash
@@ -424,93 +328,141 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Temp/UnityTempFile-19851ec3b5e3b4adbaa0dabeb87fe4c0
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-19851ec3b5e3b4adbaa0dabeb87fe4c0
-    projectPath: Temp/UnityTempFile-19851ec3b5e3b4adbaa0dabeb87fe4c0
+  - path: Temp/UnityTempFile-0e760337b6ee9495fa417457ccadbeb0
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-0e760337b6ee9495fa417457ccadbeb0
+    projectPath: Temp/UnityTempFile-0e760337b6ee9495fa417457ccadbeb0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-277bcfeaf410f4f31852a0e5f96aefb3
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-277bcfeaf410f4f31852a0e5f96aefb3
-    projectPath: Temp/UnityTempFile-277bcfeaf410f4f31852a0e5f96aefb3
+  - path: Temp/UnityTempFile-0f2ef962fbcd84bbf832ed6767e2fb53
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-0f2ef962fbcd84bbf832ed6767e2fb53
+    projectPath: Temp/UnityTempFile-0f2ef962fbcd84bbf832ed6767e2fb53
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-33d731208dd024cf88c1e92f26c708ee
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-33d731208dd024cf88c1e92f26c708ee
-    projectPath: Temp/UnityTempFile-33d731208dd024cf88c1e92f26c708ee
+  - path: Temp/UnityTempFile-42d86ba8003324aacbfafb7e8e61ee85
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-42d86ba8003324aacbfafb7e8e61ee85
+    projectPath: Temp/UnityTempFile-42d86ba8003324aacbfafb7e8e61ee85
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-3def43ff756d94f90aa4045ab84fde91
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-3def43ff756d94f90aa4045ab84fde91
-    projectPath: Temp/UnityTempFile-3def43ff756d94f90aa4045ab84fde91
+  - path: Temp/UnityTempFile-44ccccf793e9b4ed987c75f917f920cb
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-44ccccf793e9b4ed987c75f917f920cb
+    projectPath: Temp/UnityTempFile-44ccccf793e9b4ed987c75f917f920cb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-6076e8c3c2ecc4a5ab90a3b414680d96
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-6076e8c3c2ecc4a5ab90a3b414680d96
-    projectPath: Temp/UnityTempFile-6076e8c3c2ecc4a5ab90a3b414680d96
+  - path: Temp/UnityTempFile-55009d7bf4c0e4866a4d1e7d524c8db3
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-55009d7bf4c0e4866a4d1e7d524c8db3
+    projectPath: Temp/UnityTempFile-55009d7bf4c0e4866a4d1e7d524c8db3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-8ede49e4ad87d46ee9c27902191ba683
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-8ede49e4ad87d46ee9c27902191ba683
-    projectPath: Temp/UnityTempFile-8ede49e4ad87d46ee9c27902191ba683
+  - path: Temp/UnityTempFile-58a0a0f45951448f4926b5b189accc3e
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-58a0a0f45951448f4926b5b189accc3e
+    projectPath: Temp/UnityTempFile-58a0a0f45951448f4926b5b189accc3e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-cff6b2c94f8fc42e191b1f5884ecc6cf
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-cff6b2c94f8fc42e191b1f5884ecc6cf
-    projectPath: Temp/UnityTempFile-cff6b2c94f8fc42e191b1f5884ecc6cf
+  - path: Temp/UnityTempFile-591e29c94528a459a9b7e5f11104e535
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-591e29c94528a459a9b7e5f11104e535
+    projectPath: Temp/UnityTempFile-591e29c94528a459a9b7e5f11104e535
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-e07f11189c31943a692e6f714bff3553
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-e07f11189c31943a692e6f714bff3553
-    projectPath: Temp/UnityTempFile-e07f11189c31943a692e6f714bff3553
+  - path: Temp/UnityTempFile-5a2a2b723b4e247cf9685f0c497ebfb0
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-5a2a2b723b4e247cf9685f0c497ebfb0
+    projectPath: Temp/UnityTempFile-5a2a2b723b4e247cf9685f0c497ebfb0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-ecedaf13867524e4d84b5ebf9dadfac6
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-ecedaf13867524e4d84b5ebf9dadfac6
-    projectPath: Temp/UnityTempFile-ecedaf13867524e4d84b5ebf9dadfac6
+  - path: Temp/UnityTempFile-6d61d5446717543ccaba75bb80cd4a83
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-6d61d5446717543ccaba75bb80cd4a83
+    projectPath: Temp/UnityTempFile-6d61d5446717543ccaba75bb80cd4a83
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-f1cabec032b9848df80fd992f1227102
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-f1cabec032b9848df80fd992f1227102
-    projectPath: Temp/UnityTempFile-f1cabec032b9848df80fd992f1227102
+  - path: Temp/UnityTempFile-75fdc36c1ca8841878f9dea33401b912
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-75fdc36c1ca8841878f9dea33401b912
+    projectPath: Temp/UnityTempFile-75fdc36c1ca8841878f9dea33401b912
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-f2b258cb7d0584b00956fa8ddc4cb75a
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-f2b258cb7d0584b00956fa8ddc4cb75a
-    projectPath: Temp/UnityTempFile-f2b258cb7d0584b00956fa8ddc4cb75a
+  - path: Temp/UnityTempFile-80c741dfbc8fc43baac43a0210e7323a
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-80c741dfbc8fc43baac43a0210e7323a
+    projectPath: Temp/UnityTempFile-80c741dfbc8fc43baac43a0210e7323a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-f52aa8bbe7d8a4564b780351774c9128
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-f52aa8bbe7d8a4564b780351774c9128
-    projectPath: Temp/UnityTempFile-f52aa8bbe7d8a4564b780351774c9128
+  - path: Temp/UnityTempFile-85da9f686c8a245d7a9ff95817f76738
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-85da9f686c8a245d7a9ff95817f76738
+    projectPath: Temp/UnityTempFile-85da9f686c8a245d7a9ff95817f76738
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-f97de0a3095d141b9be609cfe4026b12
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-f97de0a3095d141b9be609cfe4026b12
-    projectPath: Temp/UnityTempFile-f97de0a3095d141b9be609cfe4026b12
+  - path: Temp/UnityTempFile-92eba8877a1c14742a9c215da89f6657
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-92eba8877a1c14742a9c215da89f6657
+    projectPath: Temp/UnityTempFile-92eba8877a1c14742a9c215da89f6657
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp/UnityTempFile-fa6de3ce4ff4c4d50bd4b42e21277e2c
-    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-fa6de3ce4ff4c4d50bd4b42e21277e2c
-    projectPath: Temp/UnityTempFile-fa6de3ce4ff4c4d50bd4b42e21277e2c
+  - path: Temp/UnityTempFile-9e651ceede99d4247a88d2c6f2d281fb
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-9e651ceede99d4247a88d2c6f2d281fb
+    projectPath: Temp/UnityTempFile-9e651ceede99d4247a88d2c6f2d281fb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: UserSettings/EditorUserSettings.asset
-    fullPath: /Users/sirzes/TopDungeon/UserSettings/EditorUserSettings.asset
-    projectPath: UserSettings/EditorUserSettings.asset
+  - path: Temp/UnityTempFile-ac2cb8442f5dc47d2a80da97a80c0c09
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-ac2cb8442f5dc47d2a80da97a80c0c09
+    projectPath: Temp/UnityTempFile-ac2cb8442f5dc47d2a80da97a80c0c09
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c6e62e5f3423444b7b7434cc7ebbf0e6
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-c6e62e5f3423444b7b7434cc7ebbf0e6
+    projectPath: Temp/UnityTempFile-c6e62e5f3423444b7b7434cc7ebbf0e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-cbe9485bb51b24f809970c1db322940c
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-cbe9485bb51b24f809970c1db322940c
+    projectPath: Temp/UnityTempFile-cbe9485bb51b24f809970c1db322940c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-cd40f2bcc9179459d93e8d952b88c36d
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-cd40f2bcc9179459d93e8d952b88c36d
+    projectPath: Temp/UnityTempFile-cd40f2bcc9179459d93e8d952b88c36d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d4d993f79763d45b58a9641fdfd5ab3b
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-d4d993f79763d45b58a9641fdfd5ab3b
+    projectPath: Temp/UnityTempFile-d4d993f79763d45b58a9641fdfd5ab3b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d7866449a75874d62a85b9ff8b5712bd
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-d7866449a75874d62a85b9ff8b5712bd
+    projectPath: Temp/UnityTempFile-d7866449a75874d62a85b9ff8b5712bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-edda47e3fc61841e9863979e0cf92491
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-edda47e3fc61841e9863979e0cf92491
+    projectPath: Temp/UnityTempFile-edda47e3fc61841e9863979e0cf92491
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f21e6794519de4873b2e1d1f69eeac2c
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-f21e6794519de4873b2e1d1f69eeac2c
+    projectPath: Temp/UnityTempFile-f21e6794519de4873b2e1d1f69eeac2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f46a5f59602f7445d830c53979602da5
+    fullPath: /Users/sirzes/TopDungeon/Temp/UnityTempFile-f46a5f59602f7445d830c53979602da5
+    projectPath: Temp/UnityTempFile-f46a5f59602f7445d830c53979602da5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
